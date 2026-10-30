@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanuki-nyudo",
  "yomi": "さぬきにゅうどうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "藤原顕綱（1029〜1103）",
+  "desc": "讃岐入道と呼ばれた藤原顕綱の家集。女房との贈答の歌が多く、中将家の歌合や鳥羽殿の前栽合の歌も収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1087,6 +1092,6 @@
   "poems": 92,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
